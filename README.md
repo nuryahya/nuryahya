@@ -16,8 +16,8 @@ Here are some ideas to get you started :
 
 # Demos
 
-This is a funny face
+Check this [YouTube Channel](https://youtube.com/@giswqs).
 
-![gif](https://i.gifer.com/embedded/download/4j.gif)
+![png](https://wetlands.io/file/images/youtube.png)
 
 
