@@ -12,6 +12,12 @@ Here are some ideas to get you started :
 - 💻 I currently work as freelance expert in differen consulting firms in Addis Abeba ...
 - I work in 🇪🇹 
 
+## 📫 How to reach me
+
+[<img src="assets/lk.png" height="50px">](https://www.linkedin.com/in/nur-yahya-1495a9102/)
+[<img src="assets/x.png" height="50px">](https://twitter.com/Nur_Yahya_)
+[<img src="assets/fb.png" height="50px">](https://www.facebook.com/nur.yahya.391)
+
 ## Projects
 - [geemap](https://geemap.org) : A Python Package for interactive mapping with google earth engine ,ipyleaflet,and ipywidgets
 - [leafmap](https://leafmap.org) : A Python package for interactive mapping with folium , ipyleaflet
