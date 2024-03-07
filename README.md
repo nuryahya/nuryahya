@@ -1,4 +1,6 @@
-### Hi there !
+## Hi there 👋, my name is Nur Yahya
+
+I'm from the Ethiopia ET . I'm a huge fan of Python Scripting for Geospatial Analysis. 
 
 ## Introduction
 
