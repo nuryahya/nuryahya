@@ -1,7 +1,4 @@
- <img src="assets/eth_circle.png" height="50px">
-
-
-## Hi there 👋, my name is Nur Yahya     
+## Hi there 👋, my name is Nur Yahya
 
 I'm from the Ethiopia ET . I'm a huge fan of Python Scripting for Geospatial Analysis. 
 
