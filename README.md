@@ -1,19 +1,30 @@
- <img src="assets/eth_circle.png" height="50px">
+ <img align='right' src="assets/eth_circle.png" height="50px"> 
+
+## <font color = 'green'> Hi there my name is Nur Yahya   </font> 👋,   
 
 
-## Hi there 👋, my name is Nur Yahya     
+I'm from  Ethiopia ET . I'm  fan of Python Scripting for Geospatial Analysis. 
 
-I'm from the Ethiopia ET . I'm a huge fan of Python Scripting for Geospatial Analysis. 
 
-## Introduction
+## About Me
 
-**nuryahya/nuryahya** is a ⭐ _special_ ⭐ repositiry because its 'README.md' (this file) appears on your gitHub profile
-
-Here are some ideas to get you started :
-
-- 👨 I am a GIS Expert and Water Resource Eng ...
+- 👨 I like Python Scripting for Geospatial Analysis specially its application for Urban Planning.  
+        Interested to geopandas , pandas , arcpy , geemap ... 
+      
 - 💻 I currently work as freelance expert in differen consulting firms in Addis Abeba ...
-- I work in 🇪🇹 
+
+## My contribution 
+
+- ArcGIS GP Python toolbox/toolset + Script tools for Dire Dawa City Road Asset Data Processing in accordance  
+  with GIS Application Manual for the revised Urban Local Government Development Program (ULGDP) Asset Management Plan of Ethiopia.  
+  [ULGDP](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/799661468036328375/ethiopia-second-urban-local-government-development-program-ulgdp-ii-technical-assessment)
+  
+- Land Grading ArcGIS Geo Processing Tool for Dire Dawa Land  Management Bureau [Land Development And Management Bureau](https://www.diredawa.gov.et/en/office/land-development-and-management-bureau-1)   
+  
+
+
+
+
 
 ## 📫 How to reach me
 
@@ -21,15 +32,10 @@ Here are some ideas to get you started :
 [<img src="assets/x.png" height="50px">](https://twitter.com/Nur_Yahya_)
 [<img src="assets/fb.png" height="50px">](https://www.facebook.com/nur.yahya.391)
 
-## Projects
+## Favorite Projects
 - [geemap](https://geemap.org) : A Python Package for interactive mapping with google earth engine ,ipyleaflet,and ipywidgets
 - [leafmap](https://leafmap.org) : A Python package for interactive mapping with folium , ipyleaflet
 
 
-# Demos
-
-Check this [YouTube Channel](https://youtube.com/@giswqs).
-
-![png](https://wetlands.io/file/images/youtube.png)
 
 
