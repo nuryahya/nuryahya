@@ -1,5 +1,8 @@
  <img align='right' src="assets/eth_circle.png" height="50px"> 
 
+ [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/nur-yahya-1495a9102/)
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nuryahya.nuryahya)
+
 ## <font color = 'green'> Hi there my name is Nur Yahya   </font> 👋,   
 
 
