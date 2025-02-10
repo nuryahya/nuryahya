@@ -38,6 +38,7 @@ I'm from  Ethiopia ET . I'm  fan of Python Scripting for Geospatial Analysis.
 ## Favorite Projects
 - [geemap](https://geemap.org) : A Python Package for interactive mapping with google earth engine ,ipyleaflet,and ipywidgets
 - [leafmap](https://leafmap.org) : A Python package for interactive mapping with folium , ipyleaflet
+- [geopandas](https://geopandas.org) : An open source project to make working with geospatial data in python easier .
 
 
 
